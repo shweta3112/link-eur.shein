@@ -1,0 +1,7 @@
+# apt-get install docker.io
+
+# sudo docker run --name "abcd" -d -P "tuxotron/tiredful-api"
+
+# docker pull tuxotron/tiredful-api
+
+# http://0.0.0.0:49153/
